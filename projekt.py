@@ -1,0 +1,1 @@
+print("dzisiaj jest git dzien")
